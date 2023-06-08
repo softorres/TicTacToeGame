@@ -1,6 +1,6 @@
 #front end
 """
-Backened for TicTacToe
+frontkened for TicTacToe
 
 """
 
