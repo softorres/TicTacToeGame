@@ -5,4 +5,4 @@ Keep in note that if you ever build something like this, make sure to do your re
 
 our streamlit app: https://softorres-tictactoegame-frontend-nepywi.streamlit.app/
 
-[Link to PDF File](Users\sofit\Downloads\Project_1-TicTacToeWithAI.pdf)
+[Link to PDF File](https://github.com/softorres/TicTacToeGame/blob/main/Project_1-TicTacToeWithAI.pdf)
